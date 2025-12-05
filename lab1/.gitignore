@@ -1,0 +1,23 @@
+# Flutter
+flutter/.dart_tool/
+flutter/build/
+
+# Android (XML + Compose)
+javakotlin/.gradle/
+javakotlin/.idea/
+javakotlin/**/build/
+
+compose/.gradle/
+compose/.idea/
+compose/**/build/
+
+# React Native
+reactnative/node_modules/
+reactnative/.expo/
+reactnative/android/.gradle/
+reactnative/android/**/build/
+reactnative/ios/Pods/
+
+# OS junk
+.DS_Store
+Thumbs.db
